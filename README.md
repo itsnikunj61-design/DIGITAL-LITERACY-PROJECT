@@ -27,9 +27,9 @@ Task 2: Student Digital Portfolio
 
 Profiles created/updated on:
 
-GitHub → https://github.com/anuragtiwari8006-dev
+GitHub → https://github.com/itsnikunj61-design
 
-LinkedIn → www.linkedin.com/in/
+LinkedIn → https://www.linkedin.com/in/nikunj-barnwal-554228310/
 
 Kaggle/Other → https://www.kaggle.com/
 
@@ -37,7 +37,7 @@ Purpose: Build professional online identity Showcase skills and learning journey
 
 Task 3: Coding & Collaboration Platforms Completed a beginner problem on: HackerRank / CodeChef / HackerEarth Created a Google Form Quiz on digital literacy
 
-Google FormLink:https://docs.google.com/forms/d/e/1FAIpQLScGB2R1Sac3VSrZ495vI9Ooh7DY2Y_HstqsN4hxMHL0HPDkvA/viewform?usp=publish-editor
+Google FORM https://docs.google.com/forms/d/e/1FAIpQLSfMX0ApV_viOp0wWmjXKTbZ6KrKoUoCKUdWkESRw0ZlAC5Vhw/viewform?usp=publish-editor
 
 Task 4: Email & Communication Skills Drafted: Email to professor Email for internship application Created: Social Media Do’s & Don’ts checklist Task 5: Cybercrime Awareness Created a case study on: [Phishing / UPI Fraud / Cyberbullying / etc.] Designed a prevention checklist for students Included: Cyber Crime Portal: https://cybercrime.gov.in Helpline: 1930 Key Learnings Importance of digital literacy in academics and career How to build a professional online presence Basics of coding platforms and collaboration tools Proper email etiquette and communication skills Awareness about cybercrime and online safety Tools & Platforms Used Canva (Infographic Design) GitHub (Version Control & Portfolio) LinkedIn (Professional Networking) HackerRank / CodeChef (Coding Practice) Google Forms (Quiz Creation) Submission
 
